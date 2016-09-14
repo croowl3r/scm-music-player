@@ -1,0 +1,26 @@
+#player,#player a{ font-size 10px; font-familykristen ITC;color#ffffff; }
+#player{ backgroundurl(httpstatic.tumblr.comthngg2eksMminvvvscmp_skin3.png); background-positionbottom; }
+#player .mainImage{ backgroundurl(httpstatic.tumblr.comthngg2eOaBminvtbscmp_skin.png); }
+#player #baseLeft{ width93px; }
+#player #baseRight{ width145px;}
+#player .button{  width26px; }
+#player #play{ backgroundurl(httpstatic.tumblr.comthngg2ehVUminvulscmp_skin1.png); }
+#player #play,#player #pause{ left26px; }
+#player #previous{ left0px; }
+#player #next{ left52px; }
+#player #title{ left90px;  }
+#player #tooltip{ right196px; }
+#player #timer{ right120px;  }
+#player #list{ right0px; }
+#player #seeker{ right320px; }
+#player #seekerBase{ border-color#ccc;  }
+#player #seekerBuffered{ background-color#ffffff; }
+#player #seekerSliderBase{ background-color#ccc; }
+#player #volume{ width65px; right39px; }
+#player #volumeSlider{ width8px; backgroundurl(httpstatic.tumblr.comthngg2eksMminvvvscmp_skin3.png); }
+#playlist,#playlist .module,#playlist h3{ border-color#000000;}
+#playlist .module{  color#ffffff; background-color#000000; }
+#playlist h3{ backgroundurl(httpstatic.tumblr.comthngg2eNWSminvxmscmp_skin4.png); color#fff; background-color#333;  }
+#playlist .even{background-color#000000;}
+#playlist .odd{ background-color#00000;}
+#playlist .focus{ background-color#ffffff; color#000000;}
